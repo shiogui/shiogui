@@ -1,7 +1,7 @@
 Hi 👋 My name is Shiogui Nagasse
 ================================
 
-Software Engineer and IT Consultant
+Software Engineer | IT Consultant
 -----------------------------------
 
 * 🌍  I'm based in São Paulo, Brazil
