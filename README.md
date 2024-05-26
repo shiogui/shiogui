@@ -6,7 +6,7 @@ Software Engineer | IT Consultant
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [shiogui@gmail.com](mailto:shiogui@gmail.com)
-* 🧠  I'm learning Rust, HTMX
+* 🧠  I'm learning Go, HTMX
 
 <a href="https://www.github.com/shiogui" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shiogui?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
